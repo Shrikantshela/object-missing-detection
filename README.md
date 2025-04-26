@@ -22,4 +22,4 @@ This project implements a real-time video analytics pipeline that can detect whe
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository:https://github.com/Shrikantshela/object-missing-detection/tree/master
