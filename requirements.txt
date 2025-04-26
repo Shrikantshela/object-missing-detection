@@ -1,0 +1,7 @@
+opencv-python==4.8.0.74
+numpy>=1.22.0
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+lap>=0.4.0
+scipy>=1.10.0
